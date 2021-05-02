@@ -6,7 +6,6 @@
 <strong>Familiar:</strong> TypeScript, Redux, Node.js, MongoDB, MySql, Material-UI <br>
 <strong>Tools :</strong> Git, VS code, Notepad++, Heroku, Netlify, Chrome Dev Tools, Firebase<br>
 <br>
-<hr></hr>
 - 🔭 I’m currently working on MERN Web Devlopment And WordPress Theme Development<br>
 - :hearts: I’m interested in developing modern web application, eCommerce Website<br>
 - :computer: I’m currently learning React, Redux, Node JS<br>
