@@ -34,9 +34,11 @@
 <hr>
 
 <h4>📊 My GitHub Stats</h4>
+<h4>📊 My GitHub Stats</h4>
 <p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayetun&theme=github_dark" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayetun&theme=github_dark" alt="Top Languages" />
 </p>
 
 
