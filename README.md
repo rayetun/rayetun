@@ -9,7 +9,7 @@
 <br>
 - 🔭 I'm currently working on WordPress plugin & theme development and my own plugin portfolio under the Rayetun brand<br>
 - :hearts: I'm interested in building secure, well-architected WordPress plugins and eCommerce solutions<br>
-- :trophy: Top Rated Plus on Upwork with 500+ clients served<br>
+- :trophy: Top Rated Plus on Upwork– 200+ Successful Projects<br>
 - :calling: Contact me for your WordPress projects<br>
 
 <hr>
@@ -17,16 +17,12 @@
 <h4>🔌 My WordPress Plugins</h4>
 <table>
   <tr>
-    <td><b>Login Sentinel</b></td>
-    <td>WordPress login security & hardening — brute-force protection, activity logging, file integrity monitoring, and 2FA.</td>
+    <td><b>PixelVault – Media Library Folder</b></td>
+    <td>Organize the WordPress media library into folders for faster, tidier asset management.</td>
   </tr>
   <tr>
     <td><b>Rayetun Site Monitor</b></td>
     <td>Site performance & uptime monitoring with PageSpeed Insights integration.</td>
-  </tr>
-  <tr>
-    <td><b>PixelVault – Media Library Folder</b></td>
-    <td>Organize the WordPress media library into folders for faster, tidier asset management.</td>
   </tr>
   <tr>
     <td><b>NoticePulse</b></td>
@@ -39,9 +35,9 @@
 
 <h4>📊 My GitHub Stats</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayetun&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayetun&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <hr>
