@@ -33,17 +33,6 @@
 
 <hr>
 
-<h4>📊 My GitHub Stats</h4>
-<h4>📊 My GitHub Stats</h4>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayetun&theme=github_dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayetun&theme=github_dark" alt="Top Languages" />
-</p>
-
-
-<hr>
-
 <h4>📫 Connect With Me</h4>
 - :link: My LinkedIn <a href="https://www.linkedin.com/in/rayetun/">LinkedIn</a><br>
 - :briefcase: Hire Me @ <a href="https://www.upwork.com/freelancers/~01598dcd91fb47175e">Upwork</a><br>
