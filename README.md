@@ -1,8 +1,8 @@
 <h1>Hi, I am Rayhan Uddin</h1>
-<p>I am a MERN Stack Developer & WordPress Theme Developer. I have in-depth knowledge of HTML5, CSS3,<br> Vanilla JavaScript, React.js, Node.js, Express.js, MongoDB, and Git.</p>
+<p>I am a WordPress Theme, Plugin Developer. I have in-depth knowledge of HTML5, CSS3,<br> PHP, Vanilla JavaScript, React.js, Node.js, Express.js, MongoDB, and Git.</p>
 <hr></hr>
 <h4>My Skills Are</h4>
-<strong>Comfortable :</strong> JavaScript, ES6, React, React Router, PHP, Wordpress Theme Development, HTML, CSS, Bootstrap<br>
+<strong>Comfortable :</strong> PHP, JavaScript, ES6, React, React Router, PHP, Wordpress Theme Development, Wordpress Plugin Development,<br>
 <strong>Familiar:</strong> TypeScript, Redux, Node.js, MongoDB, MySql, Material-UI <br>
 <strong>Tools :</strong> Git, VS code, Notepad++, Heroku, Netlify, Chrome Dev Tools, Firebase<br>
 <br>
