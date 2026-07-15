@@ -35,9 +35,9 @@
 
 <h4>📊 My GitHub Stats</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayetun&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayetun&theme=default" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayetun&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayetun&theme=default" alt="Top Languages" />
 </p>
 
 <hr>
